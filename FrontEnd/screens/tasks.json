@@ -1,0 +1,69 @@
+{
+    "2025-05-19": [
+        {
+            "title": "Кормление",
+            "time": "08:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Кормление",
+            "time": "14:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Кормление",
+            "time": "20:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Дача чая",
+            "time": "08:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Дача чая",
+            "time": "12:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Дача чая",
+            "time": "16:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Дача чая",
+            "time": "20:00",
+            "done": false,
+            "recurring": true,
+            "source": "ai"
+        },
+        {
+            "title": "Массаж",
+            "time": "07:00",
+            "done": false,
+            "recurring": false,
+            "source": "ai"
+        },
+        {
+            "title": "Массаж",
+            "time": "21:00",
+            "done": false,
+            "recurring": false,
+            "source": "ai"
+        }
+    ],
+    "recurring_exclusions": {},
+    "recurring_status": {}
+}
